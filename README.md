@@ -1,5 +1,6 @@
 # Forward Forward Algorithm in Python Unofficial LeetArxiv Implementation
 [Forward-Forward](https://leetarxiv.substack.com/p/forward-forward-algorithm-hinton) (Hinton, 2022) is a biologically-plausible backpropagation alternative that achieves ~96% (Löwe, 2023) accuracy on MNIST without flowing gradients.
+![Paper Poster](Poster.png)
 
 It vastly outperforms [Target Propagation](url) (Bengio, 2014), another biologically plausible backprop alternative, that reaches ~39% accuracy on MNIST.
 
