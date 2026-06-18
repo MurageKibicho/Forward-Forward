@@ -2,7 +2,7 @@
 [Forward-Forward](https://leetarxiv.substack.com/p/forward-forward-algorithm-hinton) (Hinton, 2022) is a biologically-plausible backpropagation alternative that achieves ~96% (Löwe, 2023) accuracy on MNIST without flowing gradients.
 ![Paper Poster](Poster.png)
 
-It vastly outperforms [Target Propagation](url) (Bengio, 2014), another biologically plausible backprop alternative, that reaches ~39% accuracy on MNIST.
+It vastly outperforms [Target Propagation](https://leetarxiv.substack.com/p/target-propagation) (Bengio, 2014), another biologically plausible backprop alternative, that reaches ~39% accuracy on MNIST.
 
 This is part of our Alternatives To Backpropagation series:
 1. [Target Propagation: Autoencoders are great at reconstruction and can be used to learn backprop](https://leetarxiv.substack.com/p/target-propagation) 
